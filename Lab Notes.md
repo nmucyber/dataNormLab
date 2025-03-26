@@ -39,7 +39,7 @@
 ### Example of Spotify Entity Relationship Diagram 
 An **Entity Relationship Diagram or (ERD)** is a way of visualizing relationships between tables
 <p align="center">
-  <img src="../Images/Spotify ERD.png" width="350" title="Spotify ERD">
+  <img src="Images/Spotify ERD.png" width="350" title="Spotify ERD">
 </p>
 
 
